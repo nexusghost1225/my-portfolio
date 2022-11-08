@@ -1,4 +1,60 @@
-*{
-    background-color: dimgray;
+* {
+
+    background-image: url(https://static.videezy.com/system/resources/thumbnails/000/042/229/small/thumbnail-colored.jpg)
 }
-.body header{text-align: right;}
+
+.name {
+    width: 200px;
+    border-style: solid;
+    padding-left: 20px;
+    height: 80px;
+    margin: 10px;
+
+    color: crimson;
+}
+
+.skills {
+    margin-left: 200px;
+    color: whitesmoke;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+    margin-left: 18px;
+    position: relative;
+    margin-top: -172px;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+
+
+}
+
+.description {
+    margin-top: 0px;
+    margin-left: 660px;
+    color: whitesmoke;
+}
+
+.me {
+    margin: right 200px;
+    color: whitesmoke;
+}
+
+.info {
+    margin-left: -9px;
+    margin-top: 393px;
+    position: absolute;
+    color: white
+}
+
+.contact {
+    margin-left: 125px;
+    margin-top: 370px;
+    position: absolute;
+    font-size: x-large;
+    color: whitesmoke
+}
